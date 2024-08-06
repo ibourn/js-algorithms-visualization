@@ -17,4 +17,4 @@ This project provides an interactive visualization of the Quick Sort algorithm u
 
 ## Source
 
-This project is a tutorials from [The Coding Train](https://www.youtube.com/@TheCodingTrain) by Daniel Shiffman.
+This project is a tutorial from [The Coding Train](https://www.youtube.com/@TheCodingTrain) by Daniel Shiffman.

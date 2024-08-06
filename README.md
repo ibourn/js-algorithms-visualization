@@ -13,7 +13,7 @@ To get started with the projects in this repository, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/ai-javascript-demo.git
+   git clone https://github.com/ibourn/js-algorithms-visualization.git
    ```
 
 2. Run the folder's `index.html` with Live Server in VSCode:
@@ -21,7 +21,8 @@ To get started with the projects in this repository, follow these steps:
 - Install the Live Server extension in Visual Studio Code.
 - Open the repository folder and right-click on `index.html` to select "Open with Live Server".
 
-Or 3. Run a Python server:
+Or  
+3. Run a Python server:
 
 - Navigate to the cloned directory in your terminal and run:
 
